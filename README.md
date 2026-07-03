@@ -29,6 +29,36 @@ A single-page React app that generates **3–5 user stories** from a feature des
 User stories are returned in the format:  
 **As a [user], I want [goal], so that [benefit]**.
 
+## 🎓 Software Engineering Methodology
+
+This project was developed as part of a Software Engineering course and focuses on applying software engineering principles rather than only implementing application code.
+
+The development process included:
+
+- Requirements Engineering
+- User Stories
+- Functional Requirements (FR)
+- Acceptance Criteria (AC)
+- Software Architecture Design
+- Prompt Engineering for AI Integration
+- End-to-End Testing with Playwright
+- Iterative Development following Agile principles
+
+## 📖 Software Engineering Process
+
+The project followed a structured software engineering workflow:
+
+1. Requirements elicitation
+2. Functional requirements definition
+3. User story creation
+4. Acceptance criteria definition
+5. Architecture planning
+6. Implementation
+7. System testing
+8. Documentation
+
+Each phase is documented under the `chats` directory to demonstrate the engineering process behind the implementation.
+
 ## 🚀 Quick Start
 
 ### Prerequisites
@@ -169,13 +199,15 @@ The following third-party libraries were chosen to keep the project minimal, rea
 ## 🔒 Security Note
 
 This is a **frontend-only** localhost project.
-The Gemini API key is stored in `.env.local` (gitignored) and is visible in the browser.
+The repository includes a .env.local.example template.
+Local environment variables are excluded from version control using .gitignore.
 Do not deploy without a backend.
+
 
 ## 👥 Team Member Responsibilities
 
 - **Yual Eliav - UI/UX Developer:** Built the React components, UI layout, Tailwind styling, and user interaction flow.
-- **Linoy Biton - Integration & API Developer:** Implemented Gemini integration (`geminiService.js`), prompt building, API error handling and maintained README.
+- **Linoy Biton - AI Integration, Prompt Engineering & Software Design:** Implemented the Google Gemini integration (`geminiService.js`), designed structured prompts, implemented API error handling, contributed to software design decisions, and maintained the project documentation.
 - **Avital Marodov - Utilities & QA:** Implemented shared utilities (validation/formatting/constants), wrote E2E Playwright tests and maintained documentation.
 
 ## 🧪 Phase 3: Testing
@@ -252,6 +284,18 @@ using a secure, time-limited token.
 3. As a registered user, I want to create a new password using the reset link,
    so that I can securely update my credentials and log in again.
 ```
+
+## 📚 Learning Outcomes
+
+Through this project we practiced:
+
+- Translating stakeholder requirements into user stories
+- Defining functional requirements and acceptance criteria
+- Designing application architecture before implementation
+- Integrating Large Language Models into a software solution
+- Writing maintainable React components
+- Building reusable utilities and service layers
+- Planning and validating end-to-end system behavior
 
 ## 📄 License
 
