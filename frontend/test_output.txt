@@ -1,0 +1,359 @@
+
+Running 30 tests using 5 workers
+
+[1A[2K[1/30] [chromium] › tests/user-story-generator.spec.js:46:3 › User Story Generator › should enable generate button when input is provided
+[1A[2K[2/30] [chromium] › tests/user-story-generator.spec.js:64:3 › User Story Generator › should clear input and results when clear button is clicked
+[1A[2K[3/30] [chromium] › tests/user-story-generator.spec.js:26:3 › User Story Generator › should show validation error for empty input
+[1A[2K[4/30] [chromium] › tests/user-story-generator.spec.js:36:3 › User Story Generator › should show character count
+[1A[2K[5/30] [chromium] › tests/user-story-generator.spec.js:14:3 › User Story Generator › should display the application title and description
+[1A[2K[6/30] [chromium] › tests/user-story-generator.spec.js:80:3 › User Story Generator › should show loading state when generating
+[1A[2K[7/30] [chromium] › tests/user-story-generator.spec.js:107:3 › User Story Generator › should display empty state message initially
+[1A[2K[8/30] [chromium] › tests/user-story-generator.spec.js:117:3 › User Story Generator › should show error message when character limit is exceeded
+[1A[2K[9/30] [chromium] › tests/user-story-generator.spec.js:140:3 › User Story Generator › should have accessible form elements
+[1A[2K[chromium] › tests/user-story-generator.spec.js:80:3 › User Story Generator › should show loading state when generating
+Loading state was too fast to capture
+
+[1A[2K[10/30] [chromium] › tests/user-story-generator.spec.js:152:3 › User Story Generator › should display footer information
+[1A[2K[11/30] [firefox] › tests/user-story-generator.spec.js:14:3 › User Story Generator › should display the application title and description
+[1A[2K  1) [firefox] › tests/user-story-generator.spec.js:14:3 › User Story Generator › should display the application title and description 
+
+    Error: browserType.launch: Executable doesn't exist at /Users/yuvaleliav/Library/Caches/ms-playwright/firefox-1509/firefox/Nightly.app/Contents/MacOS/firefox
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+[1A[2K[12/30] [firefox] › tests/user-story-generator.spec.js:26:3 › User Story Generator › should show validation error for empty input
+[1A[2K[13/30] [firefox] › tests/user-story-generator.spec.js:36:3 › User Story Generator › should show character count
+[1A[2K  2) [firefox] › tests/user-story-generator.spec.js:26:3 › User Story Generator › should show validation error for empty input 
+
+    Error: browserType.launch: Executable doesn't exist at /Users/yuvaleliav/Library/Caches/ms-playwright/firefox-1509/firefox/Nightly.app/Contents/MacOS/firefox
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+[1A[2K  3) [firefox] › tests/user-story-generator.spec.js:36:3 › User Story Generator › should show character count 
+
+    Error: browserType.launch: Executable doesn't exist at /Users/yuvaleliav/Library/Caches/ms-playwright/firefox-1509/firefox/Nightly.app/Contents/MacOS/firefox
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+[1A[2K[14/30] [firefox] › tests/user-story-generator.spec.js:46:3 › User Story Generator › should enable generate button when input is provided
+[1A[2K  4) [firefox] › tests/user-story-generator.spec.js:46:3 › User Story Generator › should enable generate button when input is provided 
+
+    Error: browserType.launch: Executable doesn't exist at /Users/yuvaleliav/Library/Caches/ms-playwright/firefox-1509/firefox/Nightly.app/Contents/MacOS/firefox
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+[1A[2K[15/30] [firefox] › tests/user-story-generator.spec.js:64:3 › User Story Generator › should clear input and results when clear button is clicked
+[1A[2K  5) [firefox] › tests/user-story-generator.spec.js:64:3 › User Story Generator › should clear input and results when clear button is clicked 
+
+    Error: browserType.launch: Executable doesn't exist at /Users/yuvaleliav/Library/Caches/ms-playwright/firefox-1509/firefox/Nightly.app/Contents/MacOS/firefox
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+[1A[2K[16/30] [firefox] › tests/user-story-generator.spec.js:80:3 › User Story Generator › should show loading state when generating
+[1A[2K[17/30] [firefox] › tests/user-story-generator.spec.js:107:3 › User Story Generator › should display empty state message initially
+[1A[2K  6) [firefox] › tests/user-story-generator.spec.js:80:3 › User Story Generator › should show loading state when generating 
+
+    Error: browserType.launch: Executable doesn't exist at /Users/yuvaleliav/Library/Caches/ms-playwright/firefox-1509/firefox/Nightly.app/Contents/MacOS/firefox
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+[1A[2K  7) [firefox] › tests/user-story-generator.spec.js:107:3 › User Story Generator › should display empty state message initially 
+
+    Error: browserType.launch: Executable doesn't exist at /Users/yuvaleliav/Library/Caches/ms-playwright/firefox-1509/firefox/Nightly.app/Contents/MacOS/firefox
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+[1A[2K[18/30] [firefox] › tests/user-story-generator.spec.js:117:3 › User Story Generator › should show error message when character limit is exceeded
+[1A[2K  8) [firefox] › tests/user-story-generator.spec.js:117:3 › User Story Generator › should show error message when character limit is exceeded 
+
+    Error: browserType.launch: Executable doesn't exist at /Users/yuvaleliav/Library/Caches/ms-playwright/firefox-1509/firefox/Nightly.app/Contents/MacOS/firefox
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+[1A[2K[19/30] [firefox] › tests/user-story-generator.spec.js:140:3 › User Story Generator › should have accessible form elements
+[1A[2K  9) [firefox] › tests/user-story-generator.spec.js:140:3 › User Story Generator › should have accessible form elements 
+
+    Error: browserType.launch: Executable doesn't exist at /Users/yuvaleliav/Library/Caches/ms-playwright/firefox-1509/firefox/Nightly.app/Contents/MacOS/firefox
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+[1A[2K[20/30] [webkit] › tests/user-story-generator.spec.js:14:3 › User Story Generator › should display the application title and description
+[1A[2K[21/30] [firefox] › tests/user-story-generator.spec.js:152:3 › User Story Generator › should display footer information
+[1A[2K  10) [webkit] › tests/user-story-generator.spec.js:14:3 › User Story Generator › should display the application title and description 
+
+    Error: browserType.launch: Executable doesn't exist at /Users/yuvaleliav/Library/Caches/ms-playwright/webkit-2248/pw_run.sh
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+[1A[2K  11) [firefox] › tests/user-story-generator.spec.js:152:3 › User Story Generator › should display footer information 
+
+    Error: browserType.launch: Executable doesn't exist at /Users/yuvaleliav/Library/Caches/ms-playwright/firefox-1509/firefox/Nightly.app/Contents/MacOS/firefox
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+[1A[2K[22/30] [webkit] › tests/user-story-generator.spec.js:26:3 › User Story Generator › should show validation error for empty input
+[1A[2K  12) [webkit] › tests/user-story-generator.spec.js:26:3 › User Story Generator › should show validation error for empty input 
+
+    Error: browserType.launch: Executable doesn't exist at /Users/yuvaleliav/Library/Caches/ms-playwright/webkit-2248/pw_run.sh
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+[1A[2K[23/30] [webkit] › tests/user-story-generator.spec.js:36:3 › User Story Generator › should show character count
+[1A[2K  13) [webkit] › tests/user-story-generator.spec.js:36:3 › User Story Generator › should show character count 
+
+    Error: browserType.launch: Executable doesn't exist at /Users/yuvaleliav/Library/Caches/ms-playwright/webkit-2248/pw_run.sh
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+[1A[2K[24/30] [webkit] › tests/user-story-generator.spec.js:46:3 › User Story Generator › should enable generate button when input is provided
+[1A[2K[25/30] [webkit] › tests/user-story-generator.spec.js:64:3 › User Story Generator › should clear input and results when clear button is clicked
+[1A[2K  14) [webkit] › tests/user-story-generator.spec.js:46:3 › User Story Generator › should enable generate button when input is provided 
+
+    Error: browserType.launch: Executable doesn't exist at /Users/yuvaleliav/Library/Caches/ms-playwright/webkit-2248/pw_run.sh
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+[1A[2K  15) [webkit] › tests/user-story-generator.spec.js:64:3 › User Story Generator › should clear input and results when clear button is clicked 
+
+    Error: browserType.launch: Executable doesn't exist at /Users/yuvaleliav/Library/Caches/ms-playwright/webkit-2248/pw_run.sh
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+[1A[2K[26/30] [webkit] › tests/user-story-generator.spec.js:80:3 › User Story Generator › should show loading state when generating
+[1A[2K  16) [webkit] › tests/user-story-generator.spec.js:80:3 › User Story Generator › should show loading state when generating 
+
+    Error: browserType.launch: Executable doesn't exist at /Users/yuvaleliav/Library/Caches/ms-playwright/webkit-2248/pw_run.sh
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+[1A[2K[27/30] [webkit] › tests/user-story-generator.spec.js:107:3 › User Story Generator › should display empty state message initially
+[1A[2K  17) [webkit] › tests/user-story-generator.spec.js:107:3 › User Story Generator › should display empty state message initially 
+
+    Error: browserType.launch: Executable doesn't exist at /Users/yuvaleliav/Library/Caches/ms-playwright/webkit-2248/pw_run.sh
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+[1A[2K[28/30] [webkit] › tests/user-story-generator.spec.js:140:3 › User Story Generator › should have accessible form elements
+[1A[2K[29/30] [webkit] › tests/user-story-generator.spec.js:117:3 › User Story Generator › should show error message when character limit is exceeded
+[1A[2K  18) [webkit] › tests/user-story-generator.spec.js:140:3 › User Story Generator › should have accessible form elements 
+
+    Error: browserType.launch: Executable doesn't exist at /Users/yuvaleliav/Library/Caches/ms-playwright/webkit-2248/pw_run.sh
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+[1A[2K  19) [webkit] › tests/user-story-generator.spec.js:117:3 › User Story Generator › should show error message when character limit is exceeded 
+
+    Error: browserType.launch: Executable doesn't exist at /Users/yuvaleliav/Library/Caches/ms-playwright/webkit-2248/pw_run.sh
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+[1A[2K[30/30] [webkit] › tests/user-story-generator.spec.js:152:3 › User Story Generator › should display footer information
+[1A[2K  20) [webkit] › tests/user-story-generator.spec.js:152:3 › User Story Generator › should display footer information 
+
+    Error: browserType.launch: Executable doesn't exist at /Users/yuvaleliav/Library/Caches/ms-playwright/webkit-2248/pw_run.sh
+    ╔═════════════════════════════════════════════════════════════════════════╗
+    ║ Looks like Playwright Test or Playwright was just installed or updated. ║
+    ║ Please run the following command to download new browsers:              ║
+    ║                                                                         ║
+    ║     npx playwright install                                              ║
+    ║                                                                         ║
+    ║ <3 Playwright Team                                                      ║
+    ╚═════════════════════════════════════════════════════════════════════════╝
+
+
+[1A[2K  21) [chromium] › tests/user-story-generator.spec.js:26:3 › User Story Generator › should show validation error for empty input 
+
+    Test was interrupted.
+
+    Error: locator.click: Test ended.
+    Call log:
+    [2m  - waiting for getByRole('button', { name: /Generate User Stories/i })[22m
+    [2m    - locator resolved to <button disabled aria-label="Generate user stories" class="btn-primary flex-1 flex items-center justify-center gap-2">…</button>[22m
+    [2m  - attempting click action[22m
+    [2m    2 × waiting for element to be visible, enabled and stable[22m
+    [2m      - element is not enabled[22m
+    [2m    - retrying click action[22m
+    [2m    - waiting 20ms[22m
+    [2m    2 × waiting for element to be visible, enabled and stable[22m
+    [2m      - element is not enabled[22m
+    [2m    - retrying click action[22m
+    [2m      - waiting 100ms[22m
+    [2m    53 × waiting for element to be visible, enabled and stable[22m
+    [2m       - element is not enabled[22m
+    [2m     - retrying click action[22m
+    [2m       - waiting 500ms[22m
+
+
+      26 |   test("should show validation error for empty input", async ({ page }) => {
+      27 |     // Click generate button without entering text
+    > 28 |     await page.getByRole("button", { name: /Generate User Stories/i }).click();
+         |                                                                        ^
+      29 |
+      30 |     // Should show validation error
+      31 |     await expect(
+        at /Users/yuvaleliav/Dev/HandsaProject/frontend/tests/user-story-generator.spec.js:28:72
+
+    attachment #1: screenshot (image/png) ──────────────────────────────────────────────────────────
+    test-results/user-story-generator-User--28bce-ation-error-for-empty-input-chromium/test-failed-1.png
+    ────────────────────────────────────────────────────────────────────────────────────────────────
+
+
+[1A[2K  20 failed
+    [firefox] › tests/user-story-generator.spec.js:14:3 › User Story Generator › should display the application title and description 
+    [firefox] › tests/user-story-generator.spec.js:26:3 › User Story Generator › should show validation error for empty input 
+    [firefox] › tests/user-story-generator.spec.js:36:3 › User Story Generator › should show character count 
+    [firefox] › tests/user-story-generator.spec.js:46:3 › User Story Generator › should enable generate button when input is provided 
+    [firefox] › tests/user-story-generator.spec.js:64:3 › User Story Generator › should clear input and results when clear button is clicked 
+    [firefox] › tests/user-story-generator.spec.js:80:3 › User Story Generator › should show loading state when generating 
+    [firefox] › tests/user-story-generator.spec.js:107:3 › User Story Generator › should display empty state message initially 
+    [firefox] › tests/user-story-generator.spec.js:117:3 › User Story Generator › should show error message when character limit is exceeded 
+    [firefox] › tests/user-story-generator.spec.js:140:3 › User Story Generator › should have accessible form elements 
+    [firefox] › tests/user-story-generator.spec.js:152:3 › User Story Generator › should display footer information 
+    [webkit] › tests/user-story-generator.spec.js:14:3 › User Story Generator › should display the application title and description 
+    [webkit] › tests/user-story-generator.spec.js:26:3 › User Story Generator › should show validation error for empty input 
+    [webkit] › tests/user-story-generator.spec.js:36:3 › User Story Generator › should show character count 
+    [webkit] › tests/user-story-generator.spec.js:46:3 › User Story Generator › should enable generate button when input is provided 
+    [webkit] › tests/user-story-generator.spec.js:64:3 › User Story Generator › should clear input and results when clear button is clicked 
+    [webkit] › tests/user-story-generator.spec.js:80:3 › User Story Generator › should show loading state when generating 
+    [webkit] › tests/user-story-generator.spec.js:107:3 › User Story Generator › should display empty state message initially 
+    [webkit] › tests/user-story-generator.spec.js:117:3 › User Story Generator › should show error message when character limit is exceeded 
+    [webkit] › tests/user-story-generator.spec.js:140:3 › User Story Generator › should have accessible form elements 
+    [webkit] › tests/user-story-generator.spec.js:152:3 › User Story Generator › should display footer information 
+  1 interrupted
+    [chromium] › tests/user-story-generator.spec.js:26:3 › User Story Generator › should show validation error for empty input 
+  9 passed (29.4s)
+
+[36m  Serving HTML report at http://localhost:56989. Press Ctrl+C to quit.[39m
